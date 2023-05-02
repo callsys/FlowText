@@ -1,11 +1,11 @@
 # ICME2023 《FlowText: Synthesizing Realistic Scene Text Video with Optical Flow Estimation》
 
-![](assets/demo.gif)
+<img src="assets/demo.gif" width="49%"><img src="assets/demo_ann.gif" width="49%">
 
-![](assets/demo_ann.gif)
+
 
 <p align="center" width="100%">
-<img src="assets/pipeline.png"  width="80%" height="80%">
+<img src="assets/pipeline.png"  width="98%" height="90%">
 </p>
 
  ## Get Started
@@ -14,6 +14,8 @@
  ```
 conda create -n flowtext python=3.8
 conda activate flowtext
+
+pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
 
 git clone https://github.com/callsys/FlowText
 cd FlowText
