@@ -15,6 +15,8 @@
 conda create -n flowtext python=3.8
 conda activate flowtext
 
+pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
+
 git clone https://github.com/callsys/FlowText
 cd FlowText
 pip install -r requirements.txt
