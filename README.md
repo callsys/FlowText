@@ -65,6 +65,6 @@ Affiliations: [University of Chinese Academy of Sciences](https://www.ucas.ac.cn
 
 Authors: Yuzhong Zhao ([zhaoyuzhong20@mails.ucas.ac.cn](zhaoyuzhong20@mails.ucas.ac.cn)), Weijia Wu ([weijiawu@zju.edu.cn](weijiawu@zju.edu.cn)), Zhuang Li ([lizhuang@kuaishou.com](lizhuang@kuaishou.com)) Jiahong Li ([lijiahong@kuaishou.com](lijiahong@kuaishou.com)) Weiqiang Wang ([wqwang@ucas.ac.cn](wqwang@ucas.ac.cn))
 ## Acknowledgement
-Code is largely based on [SynthText](https://github.com/ankush-me/SynthText), and models are borrowed from [Mask2fomer](https://github.com/facebookresearch/Mask2Former),[Monodepth2](https://github.com/nianticlabs/monodepth2), [GMA](https://github.com/zacjiang/GMA).
+Code is largely based on [SynthText](https://github.com/ankush-me/SynthText), and models are borrowed from [Mask2fomer](https://github.com/facebookresearch/Mask2Former),[Monodepth2](https://github.com/nianticlabs/monodepth2) and [GMA](https://github.com/zacjiang/GMA).
 
 Work is fully supported by [MMU of Kuaishou Technology](https://www.kuaishou.com/en).
