@@ -18,5 +18,20 @@ cd segmentation/mask2former/modeling/pixel_decoder/ops/
 sh make.sh
  ```
 ### Download Models
-
+To run FlowText, you need to download some files, which mainly contain the font file for the synthesized text, the text source, and the weight of the models. 
+```
+ln -s path/to/files FlowText/data
+```
 ### Generate Synthetic Videos with Full Annotations
+Generate Synthetic video with demo video `assets/demo.mp4` and output to result to `assets`:
+```
+python gen.py
+```
+Generate Synthetic video with given video `video.mp4`, frame range `start,end,interval`, save path `save` and random seed `seed`:
+```
+python gen.py --video video.mp4 --range start,end,interval --save save --seed seed
+```
+For example:
+```
+python gen.py --video assets/demo.mp4 --range 0,400,5 --save assets/result --seed 16
+```
