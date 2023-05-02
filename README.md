@@ -20,7 +20,7 @@ sh make.sh
 ### Download Models
 To run FlowText, you need to download some files ([Google Drive](https://drive.google.com/drive/folders/1Be8jOjFOyhx8R4d5d7prRL1698xaGzsI?usp=sharing)), which mainly contain the font file for the synthesized text, the text source, and the weight of the models. Once you have downloaded the files, link them to the FlowText directory:
 ```
-ln -s path/to/files FlowText/data
+ln -s path/to/FlowText_data FlowText/data
 ```
 ### Generate Synthetic Videos with Full Annotations
 Generate Synthetic video with demo video `assets/demo.mp4` and output to result to `assets`:
