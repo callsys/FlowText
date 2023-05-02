@@ -36,6 +36,7 @@ For example:
 python gen.py --video assets/demo.mp4 --range 0,400,5 --save assets/result --seed 16
 ```
 ### Output Format
+The format of the file output by `gen.py` is as follows:
 ```
 result
 |
@@ -48,4 +49,4 @@ result
 └─── viz.mp4
 └─── viz_ann.mp4
 ```
-
+where `xxx.jpg` denotes the synthetic video video frames, `ann.json` is the annotation file, `viz.mp4` is the synthetic video and `viz_ann.mp4` is the synthetic video with visualized annotations.
