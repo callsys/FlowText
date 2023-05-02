@@ -1,5 +1,7 @@
 # ICME2023 《FlowText: Synthesizing Realistic Scene Text Video with Optical Flow Estimation》
 
+![](assets/demo.gif)
+
 <p align="center" width="100%">
 <img src="assets/pipeline.png"  width="80%" height="80%">
 </p>
