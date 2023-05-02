@@ -36,4 +36,16 @@ For example:
 python gen.py --video assets/demo.mp4 --range 0,400,5 --save assets/result --seed 16
 ```
 ### Output Format
+```
+result
+|
+└─── 00000000.jpg
+└─── 00000001.jpg
+└─── 00000002.jpg
+└─── ......
+└─── 00000079.jpg
+└─── ann.json
+└─── viz.mp4
+└─── viz_ann.mp4
+```
 
