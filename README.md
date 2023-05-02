@@ -18,3 +18,5 @@ cd segmentation/mask2former/modeling/pixel_decoder/ops/
 sh make.sh
  ```
 ### Download Models
+
+### Generate Synthetic Videos with Full Annotations
