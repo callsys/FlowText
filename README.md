@@ -5,7 +5,7 @@
 
 
 <p align="center" width="100%">
-<img src="assets/pipeline.png"  width="90%" height="80%">
+<img src="assets/pipeline.png"  width="98%" height="90%">
 </p>
 
  ## Get Started
