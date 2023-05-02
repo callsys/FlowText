@@ -50,7 +50,7 @@ result
 └─── viz_ann.mp4
 ```
 where `xxx.jpg` denotes the synthetic video video frames, `ann.json` is the annotation file, `viz.mp4` is the synthetic video and `viz_ann.mp4` is the synthetic video with visualized annotations.
-### Citing FlowText
+## Citing FlowText
 If you use FlowText in your research or wish to refer to the results, please use the following BibTeX entry.
 ```
 @inproceedings{zhao2023flowtext,
@@ -60,3 +60,5 @@ If you use FlowText in your research or wish to refer to the results, please use
   year={2023}
 }
 ```
+## Acknowledgement
+Code is largely based on [SynthText](https://github.com/ankush-me/SynthText), and models are borrowed from [Mask2fomer](https://github.com/facebookresearch/Mask2Former),[Monodepth2](https://github.com/nianticlabs/monodepth2), [GMA](https://github.com/zacjiang/GMA).
