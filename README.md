@@ -50,3 +50,13 @@ result
 └─── viz_ann.mp4
 ```
 where `xxx.jpg` denotes the synthetic video video frames, `ann.json` is the annotation file, `viz.mp4` is the synthetic video and `viz_ann.mp4` is the synthetic video with visualized annotations.
+### Citing FlowText
+If you use FlowText in your research or wish to refer to the results, please use the following BibTeX entry.
+```
+@inproceedings{zhao2023flowtext,
+  title={FlowText: Synthesizing Realistic Scene Text Video with Optical Flow Estimation},
+  author={Yuzhong Zhao and Weijia Wu and Zhuang Li and Jiahong Li and Weiqiang Wang},
+  journal={ICME},
+  year={2023}
+}
+```
