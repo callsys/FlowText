@@ -2,7 +2,7 @@
 
 ![](assets/demo.gif)
 
-![](assets/demo_ann.gif)
+![](assets/demo.gif)
 
 <p align="center" width="100%">
 <img src="assets/pipeline.png"  width="80%" height="80%">
