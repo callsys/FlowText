@@ -21,10 +21,6 @@ git clone https://github.com/callsys/FlowText
 cd FlowText
 pip install -r requirements.txt
  
-git clone git@github.com:facebookresearch/detectron2.git
-cd detectron2
-pip install -e .
- 
 cd segmentation/mask2former/modeling/pixel_decoder/ops/
 sh make.sh
  ```
