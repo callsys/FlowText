@@ -18,7 +18,7 @@ cd segmentation/mask2former/modeling/pixel_decoder/ops/
 sh make.sh
  ```
 ### Download Models
-To run FlowText, you need to download some files, which mainly contain the font file for the synthesized text, the text source, and the weight of the models. Once you have downloaded the files, link them to the FlowText directory:
+To run FlowText, you need to download some [files](https://drive.google.com/drive/folders/1Be8jOjFOyhx8R4d5d7prRL1698xaGzsI?usp=sharing), which mainly contain the font file for the synthesized text, the text source, and the weight of the models. Once you have downloaded the files, link them to the FlowText directory:
 ```
 ln -s path/to/files FlowText/data
 ```
