@@ -69,6 +69,13 @@ If you use FlowText in your research or wish to refer to the results, please use
   journal={ICME},
   year={2023}
 }
+
+@article{zhao2023flowtext,
+  title={FlowText: Synthesizing Realistic Scene Text Video with Optical Flow Estimation},
+  author={Yuzhong Zhao and Weijia Wu and Zhuang Li and Jiahong Li and Weiqiang Wang},
+  journal={arXiv preprint arXiv:2305.03327},
+  year={2023}
+}
 ```
 ## Organization
 Affiliations: [University of Chinese Academy of Sciences](https://www.ucas.ac.cn), [Zhejiang University](https://www.zju.edu.cn/english/), [MMU of Kuaishou Technology](https://www.kuaishou.com/en)
